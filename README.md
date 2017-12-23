@@ -1,0 +1,2 @@
+# PythonGameOfLife
+GOL in python
